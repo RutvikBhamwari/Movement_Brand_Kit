@@ -123,6 +123,13 @@ who draw inspiration from water, earth, and open landscapes.
 
 ---
 
+### Background Video
+Add your own movement video to `public/movement-bg.mp4`
+The video is not included in the repository due to file size.
+Free stock videos available at pexels.com/videos
+
+---
+
 ## 👤 Author
 
 **Rutvik Bhamwari**
