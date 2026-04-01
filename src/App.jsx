@@ -224,7 +224,8 @@ export default function App() {
     <div className="min-h-screen relative" style={{ backgroundColor: colors.linen }}>
 
       {/* ── Background Video ── */}
-      <div className="fixed inset-0 z-0 overflow-hidden">
+      <div className="fixed inset-0 z-0 overflow-hidden"
+        style={{ backgroundColor: '#2C1810' }}>
         <video
           autoPlay
           muted
