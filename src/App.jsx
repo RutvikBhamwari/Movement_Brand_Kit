@@ -189,7 +189,7 @@ export default function App() {
     setResult(null)
 
     try {
-      const response = await fetch("http://localhost:3001/api/brand", {
+      const response = await fetch("/api/brand", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

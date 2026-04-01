@@ -29,3 +29,4 @@ dist/
 public/movement-bg.mp4
 public/*.mp4
 public/*.mov
+.vercel
